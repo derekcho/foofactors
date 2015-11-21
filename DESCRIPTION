@@ -3,7 +3,7 @@ Title: Makes factors less annoying
 Version: 0.0.0.9000
 Authors@R: person("Derek", "Cho", email = "derek.cho@stat.ubc.ca", role = c("aut", "cre"))
 Description: What the package does (one paragraph).
-Depends: R (>= 3.2.2)
+Depends: R (>= 3.2.1)
 License: MIT + file LICENSE
 LazyData: true
 Imports: dplyr
