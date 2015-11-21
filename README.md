@@ -1,1 +1,1 @@
-<!-- README.md is generated from README.Rmd. Please edit that file -->
+For this assignment, I added the function `frep()` which repeats a factor (or character) string, n times. This package `foofactors` should run fine with no errors hopefully! Examples of the functions included can be found in the vignette. I hope that you enjoy reading this assignment!

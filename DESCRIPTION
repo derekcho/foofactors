@@ -2,7 +2,7 @@ Package: foofactors
 Title: Makes factors less annoying
 Version: 0.0.0.9000
 Authors@R: person("Derek", "Cho", email = "derek.cho@stat.ubc.ca", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Description: This package includes a set of functions that apply operations on factors such as binding, repeating and counting.
 Depends: R (>= 3.2.1)
 License: MIT + file LICENSE
 LazyData: true
